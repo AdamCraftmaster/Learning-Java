@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> A compilation of all my projects that I made while learning java 
+> A compilation of some of my projects that I made while learning java
 
 ## Usage
 
