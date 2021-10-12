@@ -10,7 +10,6 @@ public class abcprogram {
             System.out.println("");
             System.out.print("b ");
             int b = (int)(scanner.nextInt());
-            scanner.close();
             System.out.println("");
             int c = minFunction(a, b);
             System.out.println("Minimum Value = " + c);
@@ -24,6 +23,7 @@ public class abcprogram {
             }
      
         }
+        scanner.close();
     }
 
     public static int minFunction(int n1, int n2) {

@@ -15,14 +15,6 @@ public class calculator {
         double secondnum = scanner.nextDouble();
         System.out.println("Second number = " + secondnum);
 
-/*ignoreme
-        String poopyshoes;
-        poopyshoes = scanner.next();
-        System.out.println(poopyshoes);
-        System.out.println(poopyshoes.length());
-        System.exit(0);
-*/
-
         //recive operation
         boolean validprompt = false;
         String operation = "DEBUG";
