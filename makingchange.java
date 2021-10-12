@@ -23,7 +23,7 @@ public class makingchange {
 
         //step 3
         double change = customerGive-cost;
-        System.out.println("The change needed is: " + change;
+        System.out.println("The change needed is: " + change);
         //0.01,0.05,0.1,0.25,1,5,10,20,50,100
         if (change > 0) change = changeConvert(change, 100);
         if (change > 0) change = changeConvert(change, 50);
