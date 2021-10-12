@@ -13,7 +13,7 @@
 ## Usage
 
 ```sh
-Built using WPILib VSCode, in case that alters some things (uses Java 11)
+Built using WPILib VSCode, in case that alters some things (uses Java 11), make sure when running/debugging individual classes (each class is it's own project) make sure to add .java to the end!
 ```
 
 ## Author
